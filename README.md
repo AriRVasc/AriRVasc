@@ -4,7 +4,7 @@
 
 #### Atualmente estou concluindo o curso de DESENVOLVIMENTO WEB FULL STACK ( Java e Angular) e Python para dados, projeto oferecido pela parceria da DIGITAL HOUSE com a SERASA EXPERIAN  chamado Transforme-se, voltado para mulheres que desejam se tornar programadoras. Além deste curso também sou aluna do 6 º semestre do curso de Engenharia de Controle e Automação no Instituto Federal de Santa Catarina.
 
-Esta é minha pagina de contribuição para a comunidade, seja bem vindx! 
+Esta é minha pagina de contribuição para a comunidade, seja bem-vindx! 
 
 ![javaa](https://user-images.githubusercontent.com/102121435/173253549-108f40c3-2e6d-4d50-bd3f-2771c13fc516.png)
 ![angular](https://user-images.githubusercontent.com/102121435/173253589-3d75eeaf-32a0-4794-ac30-449df2a2fb1a.png)
