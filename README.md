@@ -1,6 +1,5 @@
 # HELLO WORLD 👋
 
-### Me chamo Ariadne, tenho 28 anos e sou mãe de dois pets. 
 
 #### Me chamo Ariadne, tenho 28 anos e sou mãe de dois pets. 
 
