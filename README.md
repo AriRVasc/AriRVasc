@@ -9,6 +9,3 @@ Sou dedicada, proativa e adoro aprender coisas novas, gosto de dar o meu melhor 
 
 Esta é minha pagina de contribuição para a comunidade, seja bem-vindx! 
 
-![javaa](https://user-images.githubusercontent.com/102121435/173253549-108f40c3-2e6d-4d50-bd3f-2771c13fc516.png)
-![angular](https://user-images.githubusercontent.com/102121435/173253589-3d75eeaf-32a0-4794-ac30-449df2a2fb1a.png)
-![giy](https://user-images.githubusercontent.com/102121435/173253658-6bbda95b-353d-46df-a18a-72b821ae0a0b.jpg)
