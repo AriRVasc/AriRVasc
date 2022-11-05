@@ -1,7 +1,7 @@
 # HELLO WORLD 👋
 
 
-#### Me chamo Ariadne Rodrigues Vasconcelos, tenho 28 anos, mãe de dois pets e estudante de Engenharia de Software.  
+#### Me chamo Ariadne Rodrigues Vasconcelos, tenho 28 anos, sou mãe de dois pets e estudante de Engenharia de Software.  
 
 Sou formada em DESENVOLVIMENTO WEB FULL STACK ( Java e Angular) e Python para dados, projeto oferecido pela parceria da DIGITAL HOUSE com a SERASA EXPERIAN. 
 Hoje faço parte do time de Engenharia de Dados na Serasa Experian, trabalhamos com diversas tecnologias, sendo elas, Python, Scada,AWS, Jenkins, MySQL, SQL, NoSQL, entre várias outras que estou aprendendo, além disso, uitilizamos a metodologia ágil SCRUM.
