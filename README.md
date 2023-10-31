@@ -1,6 +1,4 @@
-## HELLO WORLD! 👋
-
-# Ariadne Rodrigues Vasconcelos
+## Hello World! 👋
 
 ## Sobre mim
 Olá! Meu nome é Ariadne Rodrigues Vasconcelos, e sou estudante de Engenharia de Software e possuo formação no curso de Desenvolvimento Web Full Stack, com conhecimentos em Java e Python para análise de dados, obtidos por meio de um projeto oferecido pela DIGITAL HOUSE em parceria com a SERASA EXPERIAN. Atualmente, faço parte da equipe de Engenharia de Dados na Serasa Experian, onde trabalhamos com uma ampla gama de tecnologias, incluindo:
