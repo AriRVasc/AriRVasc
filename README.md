@@ -5,9 +5,6 @@ Olá! Meu nome é Ariadne Rodrigues Vasconcelos, e sou estudante de Engenharia d
 
 - Python
 - PHP
-- HTML
-- CSS
-- JavaScript
 - SQL
 - Git/Github
 - Ecossistema Hadoop (Hbase, Kafka, HDFS)
