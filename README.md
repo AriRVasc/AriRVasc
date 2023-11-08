@@ -19,8 +19,4 @@ Em meu repositório, você encontrará projetos relacionados a Engenharia de Dad
 - LinkedIn: [Ariadne Rodrigues Vasconcelos](https://www.linkedin.com/in/devari)
 - Email: djari.code@gmail.com
   
-## Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AriRVasc&layout=compact&theme=dark)
-
-
 Este é o meu espaço de contribuição para a comunidade, seja muito bem-vindo(a)!
