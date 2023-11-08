@@ -8,7 +8,6 @@ Olá! Meu nome é Ariadne Rodrigues Vasconcelos, e sou estudante de Engenharia d
 - SQL
 - Git/Github
 - Ecossistema Hadoop (Hbase, Kafka, HDFS)
-- E muitas outras
 
 Estou em constante aprendizado nessa nova jornada profissional, explorando diversas tecnologias e adquirindo habilidades adicionais. Além disso, em nosso ambiente de trabalho, utilizamos a metodologia ágil **SCRUM** para otimizar nossos processos e entregar resultados de forma eficiente. Buscando constantemente aprimorar minhas habilidades profissionais, também dedico tempo às aulas de inglês, reconhecendo sua importância fundamental na área de Tecnologia da Informação.
 
