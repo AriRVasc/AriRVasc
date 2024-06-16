@@ -4,14 +4,12 @@ Currently, I am a Software Engineering student and have completed a Full Stack W
 
 On a personal note, I am a pet mom to two pets, love exploring nature-connected places, reading books, watching series, and cooking for my family. I am passionate about new technologies and always eager to learn more.
 
----
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0000FF&labelColor=000000)](https://www.linkedin.com/in/devari/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=0000FF&labelColor=000000)](mailto:djari.code@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=0000FF&labelColor=000000)](https://x.com/djari_code)
 
----
 
 ## Technologies
 
@@ -22,6 +20,10 @@ On a personal note, I am a pet mom to two pets, love exploring nature-connected 
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)
 ![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=000000)
 
----
+
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AriRVasc&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=0000FF&icon_color=0000FF&theme=jolly)
+
 
 I am constantly learning in this new professional journey, exploring various technologies, and acquiring additional skills. Additionally, I have experience with the agile methodology **SCRUM** to optimize processes and deliver results efficiently. Continuously striving to improve my professional skills, I also dedicate time to English classes, recognizing its fundamental importance in the Information Technology field.
