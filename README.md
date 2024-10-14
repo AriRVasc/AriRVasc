@@ -3,13 +3,13 @@
 Currently, I am a Software Engineering student and have completed a Full Stack Web Development course. I have knowledge in Java and Python for data analysis.
 
 
-### Connect with me
+#### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0000FF&labelColor=000000)](https://www.linkedin.com/in/devari/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=0000FF&labelColor=000000)](mailto:djari.code@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=0000FF&labelColor=000000)](https://x.com/djari_code)
 
 
-### Technologies
+
+#### Technologies
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=007396&labelColor=000000)
