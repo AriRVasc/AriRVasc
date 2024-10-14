@@ -15,8 +15,5 @@ Currently, I am a Software Engineering student and have completed a Full Stack W
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)
 
 
-### GitHub Stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AriRVasc&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0000FF&text_color=FFF&border_radius=3&border_color=0000FF&icon_color=0000FF&theme=jolly)
 
 
