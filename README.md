@@ -1,8 +1,6 @@
 ## Hello World, my name is Ariadne Rodrigues! 
 
-Currently, I am a Software Engineering student and have completed a Full Stack Web Development course. I have knowledge in Java and Python for data analysis.
-
-
+Currently, I am a Software Engineering student and have completed a Full Stack Web Development course.
 #### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0000FF&labelColor=000000)](https://www.linkedin.com/in/devari/)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=0000FF&labelColor=000000)](mailto:djari.code@gmail.com)
