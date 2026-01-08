@@ -9,7 +9,6 @@ Currently, I am a Software Engineering student and have completed a Full Stack W
 
 #### Technologies
 
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=007396&labelColor=000000)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sqlite&logoColor=003B57&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)
